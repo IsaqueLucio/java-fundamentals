@@ -6,6 +6,7 @@ public class OpticalCamo extends Cyberware {
         super(implantName);
     }
     
+    @Override
     public String activate(){
        return "Activating optical camouflage. You are now invisible.";
     }

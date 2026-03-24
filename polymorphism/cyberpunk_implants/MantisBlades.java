@@ -6,6 +6,7 @@ public class MantisBlades extends Cyberware {
         super(implantName);
     }
     
+    @Override
     public String activate(){
         return "Deploying arm blades for melee combat!";
     }
