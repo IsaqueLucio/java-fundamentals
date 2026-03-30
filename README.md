@@ -13,12 +13,12 @@ This repository is structured to demonstrate mastery over the fundamental pillar
 * **Inheritance:** Code reusability and hierarchical structures using the `extends` keyword.
 * **Polymorphism:** Method overriding (`@Override`) and dynamic method dispatch.
 * **Abstract Classes & Interfaces:** Defining strict contracts and unbreakable architectural molds.
-* **Exception Handling:** Gracefully managing runtime errors, system failures, and custom exceptions.
+* **Exception Handling:** Gracefully managing runtime errors, system failures, and custom business rules using `try-catch-finally` and `throw/throws`.
 
 ### Data Structures & Collections Framework
-* **Lists:** Dynamic array manipulation, custom object filtering, and memory management (`ArrayList`).
-* **Sets:** Ensuring data uniqueness and Hash-based high-performance security storage (`HashSet`).
-* **Maps:** Key-value pair data management for rapid retrieval (Coming soon).
+* **Lists (`ArrayList`):** Implementation of dynamic arrays for ordered data storage and custom object filtering.
+* **Sets (`HashSet`):** Utilizing Hash-based structures to ensure data uniqueness and high-performance search (No duplicates allowed).
+* **Maps (`HashMap`):** Efficient key-value pair management for rapid data retrieval (Coming soon).
 
 ## 🛠️ Technologies & Tools
 
@@ -28,4 +28,5 @@ This repository is structured to demonstrate mastery over the fundamental pillar
 
 ## 👨‍💻 Author
 
-**Isaque Lucio** *3rd Semester Analysis and Systems Development Student | Aspiring Back-end Developer*
+**Isaque Lucio**
+*3rd Semester Analysis and Systems Development Student | Aspiring Back-end Developer*
